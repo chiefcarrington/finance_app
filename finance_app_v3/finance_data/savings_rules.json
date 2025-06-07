@@ -1,0 +1,58 @@
+{
+  "base_contribution": {
+    "name": "Base Contribution",
+    "monthly_amount": 500.00
+  },
+  "paid_off_debt_contributions": [
+    {
+      "id": "christmas_gift_payoff",
+      "name": "christmas gift payoff",
+      "monthly_amount": 178.20
+    },
+    {
+      "id": "banana_republic",
+      "name": "bannana republic",
+      "monthly_amount": 30.00
+    },
+    {
+      "id": "chase_prime_visa",
+      "name": "chase prime visa",
+      "monthly_amount": 36.88
+    },
+    {
+      "id": "chase_freedom_unlimited",
+      "name": "chase freedom unlimited",
+      "monthly_amount": 40.00
+    },
+    {
+      "id": "urban_outfitters",
+      "name": "urban outfiters payoff",
+      "monthly_amount": 75.22
+    },
+    {
+      "id": "hiatus_kaiyote",
+      "name": "hiatus kaiyote tix",
+      "monthly_amount": 28.83
+    },
+    {
+      "id": "shacarri_merch",
+      "name": "Afterpay - Shacarri Merch",
+      "monthly_amount": 31.25
+    },
+    {
+      "id": "foam_runners",
+      "name": "foam runners",
+      "monthly_amount": 41.57
+    },
+    {
+      "id": "doechii_merch",
+      "name": "doechii merch",
+      "monthly_amount": 33.25
+    },
+    {
+      "id": "apple_watch_payoff",
+      "name": "apple watch payoff",
+      "monthly_amount": 14.44
+    }
+  ]
+}

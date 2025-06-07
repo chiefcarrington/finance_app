@@ -1,0 +1,154 @@
+[
+  {
+    "item_id": "rent",
+    "item_name": "Rent",
+    "expense_type": "fixed",
+    "amount": 1600.00,
+    "period_months": 1,
+    "due_day": 1
+  },
+  {
+    "item_id": "dog_food",
+    "item_name": "Dog Food",
+    "expense_type": "fixed",
+    "amount": 65.80,
+    "period_months": 1.5,
+    "due_day": 6
+  },
+  {
+    "item_id": "internet",
+    "item_name": "Internet",
+    "expense_type": "fixed",
+    "amount": 75.68,
+    "period_months": 1,
+    "due_day": 29
+  },
+  {
+    "item_id": "icloud",
+    "item_name": "icloud",
+    "expense_type": "fixed",
+    "amount": 9.99,
+    "period_months": 1,
+    "due_day": 27
+  },
+  {
+    "item_id": "apple_music",
+    "item_name": "Apple Music",
+    "expense_type": "fixed",
+    "amount": 18.39,
+    "period_months": 1,
+    "due_day": 17
+  },
+  {
+    "item_id": "gcp",
+    "item_name": "Google Cloud Platform",
+    "expense_type": "fixed",
+    "amount": 4.00,
+    "period_months": 1,
+    "due_day": 2
+  },
+  {
+    "item_id": "google_one",
+    "item_name": "Google One",
+    "expense_type": "fixed",
+    "amount": 10.65,
+    "period_months": 1,
+    "due_day": 25
+  },
+  {
+    "item_id": "wf_fee",
+    "item_name": "Wells Fargo Account Fee",
+    "expense_type": "fixed",
+    "amount": 10.00,
+    "period_months": 1,
+    "due_day": 8
+  },
+  {
+    "item_id": "utilities",
+    "item_name": "Utilities",
+    "expense_type": "variable",
+    "amount": 200.00,
+    "period_months": 1,
+    "due_day": 2
+  },
+  {
+    "item_id": "pet_insurance",
+    "item_name": "Lemonade Pet Insurance",
+    "expense_type": "fixed",
+    "amount": 55.53,
+    "period_months": 1,
+    "due_day": 24
+  },
+  {
+    "item_id": "att_cell",
+    "item_name": "ATT - Cell Bill",
+    "expense_type": "fixed",
+    "amount": 112.62,
+    "period_months": 1,
+    "due_day": 15
+  },
+  {
+    "item_id": "state_farm",
+    "item_name": "State Farm Car and Renters Insurance",
+    "expense_type": "fixed",
+    "amount": 93.47,
+    "period_months": 1,
+    "due_day": 26
+  },
+  {
+    "item_id": "dashlane",
+    "item_name": "Dashlane",
+    "expense_type": "fixed",
+    "amount": 7.03,
+    "period_months": 1,
+    "due_day": 14
+  },
+  {
+    "item_id": "classpass",
+    "item_name": "Classpass",
+    "expense_type": "fixed",
+    "amount": 79.00,
+    "period_months": 1,
+    "due_day": 16
+  },
+  {
+    "item_id": "groceries",
+    "item_name": "Groceries",
+    "expense_type": "variable",
+    "amount": 600.00,
+    "period_months": 1,
+    "due_day": null
+  },
+  {
+    "item_id": "haircut",
+    "item_name": "Haircut",
+    "expense_type": "variable",
+    "amount": 122.00,
+    "period_months": 1,
+    "due_day": null
+  },
+  {
+    "item_id": "gas",
+    "item_name": "Gas",
+    "expense_type": "variable",
+    "amount": 35.00,
+    "period_months": 1,
+    "due_day": null
+  },
+  {
+    "item_id": "psychiatry",
+    "item_name": "Psychiatry",
+    "expense_type": "fixed",
+    "amount": 90.00,
+    "period_months": 2,
+    "due_day": null
+  },
+  {
+    "item_id": "medicine",
+    "item_name": "Medicine",
+    "expense_type": "fixed",
+    "amount": 15.00,
+    "period_months": 1,
+    "due_day": 30
+  }
+]

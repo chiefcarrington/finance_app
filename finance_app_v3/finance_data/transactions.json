@@ -1,0 +1,29 @@
+[
+    {
+      "id": "a1b2c3d4-001",
+      "date": "2025-06-06",
+      "description": "Paycheck",
+      "amount": 2800.00,
+      "account_id": "chase_checking",
+      "category": "Salary",
+      "status": "posted"
+    },
+    {
+      "id": "a1b2c3d4-002",
+      "date": "2025-06-05",
+      "description": "Whole Foods",
+      "amount": -112.75,
+      "account_id": "amex_gold",
+      "category": "Groceries",
+      "status": "posted"
+    },
+    {
+      "id": "a1b2c3d4-003",
+      "date": "2025-06-07",
+      "description": "ATM Withdrawal",
+      "amount": -100.00,
+      "account_id": "chase_checking",
+      "category": "Cash",
+      "status": "posted"
+    }
+  ]
