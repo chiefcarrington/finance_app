@@ -13,6 +13,7 @@ from .reports import generate_liabilities_report
 from .reports import generate_budget_report
 from .reports import generate_savings_report
 from .reports import generate_cashflow_summary
+from .plaid_wrapper import PlaidClientWrapper
 
 
 print("✅ Personal finance toolkit 'fintool' initialized.")
