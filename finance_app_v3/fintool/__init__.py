@@ -13,6 +13,7 @@ from .reports import generate_liabilities_report
 from .reports import generate_budget_report
 from .reports import generate_savings_report
 from .reports import generate_cashflow_summary
+from .gpt_wrapper import GPTWrapper
 
 
 print("✅ Personal finance toolkit 'fintool' initialized.")
